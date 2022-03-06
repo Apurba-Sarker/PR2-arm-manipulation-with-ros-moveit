@@ -1,0 +1,2 @@
+arm_control:arm_description:arm_gazebo:arm_moveit:my_grasping
+-DCATKIN_DEVEL_PREFIX=/home/apurba/arm/devel -DCMAKE_INSTALL_PREFIX=/home/apurba/arm/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/apurba/arm/install
+
+Name: my_grasping
+Description: Description of my_grasping
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
